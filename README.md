@@ -14,7 +14,7 @@ DevSecOps Manager at Eaton. Building [WorkerMill](https://github.com/workermill/
 
 ## Background
 
-30 years building infrastructure and automation systems:
+10+ years building infrastructure and automation systems:
 
 - **DevSecOps & Cloud** — AWS Solutions Architect Professional, Terraform, ECS Fargate, CI/CD
 - **Lead DevOps** — 3.5 years at SemanticBits/ICF (healthcare/government systems)
